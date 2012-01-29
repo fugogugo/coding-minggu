@@ -1,7 +1,14 @@
 #include <iostream>
 
-int main(int argc, char ** argv)
+using namespace std;
+
+int main(int, char **)
 {
-    std::cout << "Yahoo!" << std::endl;
+
+int a = 1;
+int b = 3;
+int c = a + b;
+cout <<"hello world"<<endl;
+cout << c << endl;
 	return 0;
 }
