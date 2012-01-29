@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main(void)
+int main(int, char **)
 {
 
 int a = 1;
